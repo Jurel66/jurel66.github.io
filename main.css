@@ -19,5 +19,12 @@ nav ul{
 }
 
 nav ul li{
+    background-color: midnightblue;
+    color: antiquewhite;
     list-style-type: none;
+    display: inline-block;
+}
+
+nav ul li a{
+    color: antiquewhite;
 }
