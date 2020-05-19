@@ -3,3 +3,21 @@ body{
     color: black;
     margin: 0;
 }
+
+header{
+    background-color: khaki;
+    color: black;
+    margin: 0;
+}
+
+header h1{
+    margin: 0;
+}
+
+nav ul{
+    margin: 0;
+}
+
+nav ul li{
+    list-style-type: none;
+}
