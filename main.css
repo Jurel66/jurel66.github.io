@@ -23,6 +23,8 @@ nav ul li{
     color: antiquewhite;
     list-style-type: none;
     display: inline-block;
+    margin: 5px;
+    padding: 5px 15px;
 }
 
 nav ul li a{
