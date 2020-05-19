@@ -34,3 +34,17 @@ nav ul li{
 nav ul li a{
     color: antiquewhite;
 }
+
+div.row{}
+
+div.col{
+    background-color: greenyellow;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+    width: 16%;
+}
+
+footer{
+    clear: both;
+}
