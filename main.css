@@ -35,6 +35,14 @@ nav ul li a{
     color: antiquewhite;
 }
 
+nav ul li:hover{
+    background-color: antiquewhite;
+}
+
+nav ul li a:hover{
+    color: brown;
+}
+
 div.row{}
 
 div.col{
