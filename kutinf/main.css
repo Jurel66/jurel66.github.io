@@ -1,0 +1,59 @@
+body{
+    background-color: wheat;
+    color: black;
+    margin: 0;
+}
+
+header{
+    background-color: wheat;
+    color: black;
+    margin: 0;
+    padding: 15px 15px 0px 15px;
+}
+
+header h1{
+    margin: 0;
+    display: inline-block;
+}
+
+nav ul{
+    margin: 0;
+    display: inline-block;
+    padding: 0px 0px 0px 15px;
+}
+
+nav ul li{
+    background-color: midnightblue;
+    color: antiquewhite;
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px 15px;
+}
+
+nav ul li a{
+    color: antiquewhite;
+}
+
+nav ul li:hover{
+    background-color: wheat;
+}
+
+nav ul li a:hover{
+    color: brown;
+}
+
+div.row{}
+
+div.col{
+    background-color: antiquewhite;
+    float: left;
+    margin: 1%;
+    padding: 1%;
+    width: 29%;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}
